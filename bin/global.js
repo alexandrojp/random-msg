@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-let random  = required('../src/index');
+let random  = require('../src/index');
 
 random.randomMsg();
